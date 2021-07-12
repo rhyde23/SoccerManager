@@ -1,0 +1,20 @@
+
+
+Team rating = average of all players
+
+
+backend stuff
+
+	team rating calculator
+
+	match sim calculator
+
+goals randomizer
+
+transfers
+	
+	training/potential
+
+schedule
+
+standings information in save
